@@ -35,7 +35,6 @@ The code is generally based on this article:
 * [matplotlib](https://matplotlib.org/)
 * [seaborn](https://seaborn.pydata.org/)
 * [plotly](https://plotly.com/)
-* [plotly](https://plotly.com/)
 
 
 ### License
