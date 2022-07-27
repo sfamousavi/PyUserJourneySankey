@@ -2,7 +2,7 @@
 
 PyUserJourneySankey is a sample of how you can draw a beautiful Sankey diagram to amnalyze sequential events.
 
-![](https://github.com/sfamousavi/PyAnimationVisualization/blob/main/PyUserJourneySankey Sample Data Visualization.png)
+![](https://repository-images.githubusercontent.com/518497133/ea1828f2-d0cc-463f-8781-37f88a744410)
 
 ** Here is the story of this example:**
 
