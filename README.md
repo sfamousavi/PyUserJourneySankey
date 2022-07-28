@@ -4,7 +4,7 @@ PyUserJourneySankey is a sample of how you can draw a beautiful Sankey diagram t
 
 ![](https://repository-images.githubusercontent.com/518497133/ea1828f2-d0cc-463f-8781-37f88a744410)
 
-** Here is the story of this example:**
+**Here is the story of this example:**
 
 In out platform there are 5 events that are very important to us:
 * Main Event
