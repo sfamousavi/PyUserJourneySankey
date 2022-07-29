@@ -1,6 +1,6 @@
 # PyUserJourneySankey
 
-PyUserJourneySankey is a sample of how you can draw a beautiful Sankey diagram to amnalyze sequential events.
+PyUserJourneySankey is a sample of how you can draw a beautiful Sankey diagram to analyze sequential events.
 
 ![](https://repository-images.githubusercontent.com/518497133/ea1828f2-d0cc-463f-8781-37f88a744410)
 
